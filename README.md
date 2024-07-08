@@ -8,4 +8,5 @@ Classification.ipynb - Uses stochastic gradient descent to classify the digits i
 Autoencoder.py - Creates a convolutional autoencoder that displays a 2d visualization of the latent space of the MNIST dataset
 
 TODO
+
 fix bugs in the autoencoder, loss is not going down
