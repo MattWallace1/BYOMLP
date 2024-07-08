@@ -10,3 +10,4 @@ Autoencoder.py - Creates a convolutional autoencoder that displays a 2d visualiz
 TODO
 
 fix bugs in the autoencoder, loss is not going down
+wrap each layer in a dictionary to avoid magic indices 
